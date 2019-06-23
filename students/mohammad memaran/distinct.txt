@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Distinct 
+{
+
+	public static void main(String[] args) 
+	{
+		int number1 , number2 , leftover;
+		
+		Scanner input = new Scanner(System.in);
+        
+        System.out.print("Enter first number : ");
+        number1 = input.nextInt();
+        
+        System.out.print("Enter second number : ");
+        number2 = input.nextInt();
+        
+        leftover = number1 % number2;
+        
+        if (leftover != 0)
+            System.out.println("This numbers are relative distinct to each other.");
+        
+        else 
+            System.out.println("These numbers have a common divisor.");
+    }
+}
