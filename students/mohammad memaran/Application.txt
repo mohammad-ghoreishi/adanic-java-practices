@@ -1,0 +1,18 @@
+package runner;
+
+import runner.Clock_Time;
+
+public class Application {
+
+
+	public static void main(String[] args) {
+		Clock_Time Clock = new Clock_Time();
+		
+		for(;;) {	
+			Clock.increase();
+			System.out.println(Clock.showTime());
+		}
+		
+	}
+
+}
