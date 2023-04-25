@@ -1,0 +1,11 @@
+vless://4bfea46f-c1f3-4ceb-b755-9982b579ca09@general.mooli.click:443?encryption=none&security=tls&type=ws&host=vn1.mooli.click&sni=vn11.mooli.click&path=/wjucws#vn1.mooli.click_general
+
+vless://4bfea46f-c1f3-4ceb-b755-9982b579ca09@general.mooli.click:443?encryption=none&security=tls&type=ws&host=vn1.mooli.click&sni=vn1alt.mooli.click&path=/wjucws#vn1.mooli.click_general_alt
+
+vless://4bfea46f-c1f3-4ceb-b755-9982b579ca09@tci.mooli.click:443?encryption=none&security=tls&type=ws&host=vn1.mooli.click&sni=vn12.mooli.click&path=/wjucws#vn1.mooli.click_tci
+
+vless://4bfea46f-c1f3-4ceb-b755-9982b579ca09@tci.mooli.click:443?encryption=none&security=tls&type=ws&host=vn1.mooli.click&sni=vn12alt.mooli.click&path=/wjucws#vn1.mooli.click_tci_alt
+
+vless://4bfea46f-c1f3-4ceb-b755-9982b579ca09@irancell.mooli.click:443?encryption=none&security=tls&type=ws&host=vn1.mooli.click&sni=vn13.mooli.click&path=/wjucws#vn1.mooli.click_irancell
+
+vless://4bfea46f-c1f3-4ceb-b755-9982b579ca09@irancell.mooli.click:443?encryption=none&security=tls&type=ws&host=vn1.mooli.click&sni=vn13alt.mooli.click&path=/wjucws#vn1.mooli.click_irancell_alt
